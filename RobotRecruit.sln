@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotRecruit.Entity", "RobotRecruit.Entity\RobotRecruit.Entity.csproj", "{EF1EA8DA-41AD-4D54-BBAB-18C409661834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotRecruit.Admin", "RobotRecruit.Admin\RobotRecruit.Admin.csproj", "{A682E65A-AF4B-4B9B-B3B0-32CDC828AFDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotRecruit.Franchise", "RobotRecruit.Franchise\RobotRecruit.Franchise.csproj", "{0F284A4A-A579-4230-9611-8E2E894625F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotRecruit.Employer", "RobotRecruit.Employer\RobotRecruit.Employer.csproj", "{6B5A7B34-6D13-43A9-8E68-36F5113685E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotRecruit.JobSeeker", "RobotRecruit.JobSeeker\RobotRecruit.JobSeeker.csproj", "{BD165697-8F45-4FA3-8283-F3F5ABA5CAD6}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://nisarg18.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = RobotRecruit.Admin\\RobotRecruit.Admin.csproj
+		SccProjectName1 = RobotRecruit.Admin
+		SccLocalPath1 = RobotRecruit.Admin
+		SccProjectUniqueName2 = RobotRecruit.Employer\\RobotRecruit.Employer.csproj
+		SccProjectName2 = RobotRecruit.Employer
+		SccLocalPath2 = RobotRecruit.Employer
+		SccProjectUniqueName3 = RobotRecruit.Entity\\RobotRecruit.Entity.csproj
+		SccProjectName3 = RobotRecruit.Entity
+		SccLocalPath3 = RobotRecruit.Entity
+		SccProjectUniqueName4 = RobotRecruit.Franchise\\RobotRecruit.Franchise.csproj
+		SccProjectName4 = RobotRecruit.Franchise
+		SccLocalPath4 = RobotRecruit.Franchise
+		SccProjectUniqueName5 = RobotRecruit.JobSeeker\\RobotRecruit.JobSeeker.csproj
+		SccProjectName5 = RobotRecruit.JobSeeker
+		SccLocalPath5 = RobotRecruit.JobSeeker
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF1EA8DA-41AD-4D54-BBAB-18C409661834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF1EA8DA-41AD-4D54-BBAB-18C409661834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF1EA8DA-41AD-4D54-BBAB-18C409661834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF1EA8DA-41AD-4D54-BBAB-18C409661834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A682E65A-AF4B-4B9B-B3B0-32CDC828AFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A682E65A-AF4B-4B9B-B3B0-32CDC828AFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A682E65A-AF4B-4B9B-B3B0-32CDC828AFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A682E65A-AF4B-4B9B-B3B0-32CDC828AFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F284A4A-A579-4230-9611-8E2E894625F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F284A4A-A579-4230-9611-8E2E894625F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F284A4A-A579-4230-9611-8E2E894625F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F284A4A-A579-4230-9611-8E2E894625F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B5A7B34-6D13-43A9-8E68-36F5113685E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B5A7B34-6D13-43A9-8E68-36F5113685E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B5A7B34-6D13-43A9-8E68-36F5113685E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B5A7B34-6D13-43A9-8E68-36F5113685E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD165697-8F45-4FA3-8283-F3F5ABA5CAD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD165697-8F45-4FA3-8283-F3F5ABA5CAD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD165697-8F45-4FA3-8283-F3F5ABA5CAD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD165697-8F45-4FA3-8283-F3F5ABA5CAD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
